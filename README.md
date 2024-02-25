@@ -4,7 +4,7 @@
 
 Welcome to the Wi-Fi Manager App, an Android application developed in Kotlin using Android Studio. This app allows users to scan and connect to available Wi-Fi networks, including hidden ones. It provides a user-friendly interface to manage Wi-Fi connections efficiently.
 
-![App Screenshot](screenshot.png)
+![App Screenshot]([screenshot.png](https://github.com/newan0805/Connecting-to-Hidden-Wi-Fi-Networks/blob/master/esphidden.jpg))
 
 ## Table of Contents
 
